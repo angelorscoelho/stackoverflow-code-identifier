@@ -13,6 +13,7 @@ The Mac installation it's made with Homebrew, whick it's installed with
 
 There is a similar package manager to Linux machines called Linuxbrew and it can be fount at http://linuxbrew.sh/. I leave it's installation up to those interested, being the examples shown bellow accepted in most Linux-like OS.
 
+
 For FLEX installation on a Linux machine you need to run the following commands:
   ```
   sudo apt-get update 
@@ -24,6 +25,7 @@ For FLEX installation on a Linux machine you need to run the following commands:
   brew install flex
   ```
 
+
 For GCC, on Linux machine:
   ```
   sudo apt-get update
@@ -34,6 +36,8 @@ For GCC, on Linux machine:
   ``` 
   brew install gcc
   ```
+
+
 For Python3 installation on Linux it would be the command:
   ```
   sudo apt-get update
@@ -60,6 +64,6 @@ Posts.xml
 but note, you can analyze any XML file that follows the StackOverflow Posts.xml pattern.
 
 # Results
-Some StackOverflow forums data have hundreds of MB and it's result may take a while to finish. There is indeed a status briefing in the form of <code> 4  de  11  ( 36.36363636363637 % ) posts identificados com mais codigo - Last body:  122764  </code> and when it's finished the result can be verified in the Posts.xml file named before, having the same content but with added tags.
+Some StackExchange forums data have hundreds of MB and it's result may take a while to finish. There is indeed a status briefing in the form of <code> 4  de  11  ( 36.36363636363637 % ) posts identificados com mais codigo - Last body:  122764  </code> and when it's finished the result can be verified in the Posts.xml file named before, having the same content but with added tags.
 
 
