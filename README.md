@@ -5,6 +5,10 @@ Some ammount of StackOverflow Q&A forums have code snippets which aren't identif
 # Prerequisites
 
 For this program to run you will need FLEX, GCC and Python3.
+The Mac installation it's made with Homebrew, whick it's installed with  
+<code>
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+</code>
 
 For FLEX installation on a Linux machine you need to run the following commands:
   ```
