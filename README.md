@@ -1,6 +1,6 @@
 # stackoverflow-code-identifier
 Untagged code identifier for StackOverflow posts.
-Some ammount of StackOverflow Q&A forums have code snippets which aren't identified with the &lt;code&gt; </code> tags. This is a partial solution to this problem using REGEX with C/FLEX and scripting with Python3.
+Some ammount of StackOverflow Q&A forums have code snippets which aren't identified with the &lt;code&gt; &lt;/code&gt; tags. This is a partial solution to this problem using REGEX with C/FLEX and scripting with Python3.
 
 # Prerequisites
 
