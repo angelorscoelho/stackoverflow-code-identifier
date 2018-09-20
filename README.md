@@ -8,7 +8,8 @@ There is a focus on C/Java alike code but also recognising some Python, Bash Pro
 # Prerequisites
 
 For this program to run you will need FLEX, GCC and Python3.
-The Mac installation it's made with Homebrew, whick it's installed with  <code>/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"</code>. 
+The Mac installation it's made with Homebrew, whick it's installed with  
+<code>/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"</code>. 
 
 There is a similar package manager to Linux machines called Linuxbrew and it can be fount at http://linuxbrew.sh/. I leave it's installation up to those interested, being the examples shown bellow accepted in most Linux-like OS.
 
